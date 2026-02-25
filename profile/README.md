@@ -2,7 +2,7 @@
   <img src="https://github.com/mekanika-dev/.github/blob/main/mekanika-logo.png?raw=true" alt="Mekanika" width="400"/>
 </p>
 
-<h3 align="center">Empowering Makers with Open Source Machines</h3>
+<h3 align="center" style="color:#cccccc;">Empowering Makers with Open Source Machines</h3>
 
 <p align="center">
   <a href="https://www.mekanika.io">Website</a> · <a href="https://support.mekanika.io">Documentation</a> · <a href="https://discord.gg/n7RsBtUdGc">Discord</a> · <a href="https://www.mekanika.io/en/about-us">About Us</a>
